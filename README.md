@@ -1,7 +1,7 @@
 ## Valence-Arousal Estimation Challenge
 
 - 감정의 유쾌 및 불쾌 정도, 신체적 흥분 정도 예측
-  - 1등 LSTM, TRM
+  - 1등 LSTM, Transformer
   - 2등 Arousal 부분 vailidation 0.602 가장 높음.
   - 3등 GRU + Attention
 
